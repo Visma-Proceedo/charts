@@ -4,3 +4,4 @@
 .DS_Store
 
 !/bitnami/mariadb/charts/*.tgz
+!/bitnami/rabbitmq/charts/*.tgz
